@@ -1,10 +1,13 @@
 # fastai4GLAMS study group 
 A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM settings 
 
-## tl;dr what this is about?
-- a study group that will follow v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/) course with a focus on applications in GLAM settings 
-- a way to help each other out with the course 
-- practical focus 
+## tl;dr 
+a study group:
+- following v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/) course with a focus on applications in GLAM settings 
+- focused on helping each other out 
+- tackling domain specific issues 
+- has a practical focus 
+
 
 # Study group 
 
