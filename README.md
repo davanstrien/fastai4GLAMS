@@ -16,7 +16,7 @@ a study group:
 
 ### What the course covers:
 - 🤔 Ethics 
-- 📸 CV (Computer vision)
+- 👀 CV (Computer vision)
 - 📖 NLP (Natural Language Processing) 
 - 🗂 Tabular Data 
 - 🤖 Deployment of models 
