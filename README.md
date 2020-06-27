@@ -41,10 +41,10 @@ This study group will be primarily asynchronous with discussions taking place on
 - the forum discussions can be a resource that people might stumble upon through a google search in the future 
 
 The suggested approach will be:
-- to watch the fastai course videos and work through the notebooks in your own time
-- use the study group forum thread to discuss the lessons, ask questions and share resources
-- since data is so fundamental for deep-learning we may want to curate some labelled datasets which can be used to apply what is learned in the lessons.  
-- If there is interest we can set up a video call(s) at some point during the course to discuss how we're getting on. 
+- 🍿 watch the fastai course videos and work through the notebooks in your own time
+- 🕸 use the study group forum thread to discuss the lessons, ask questions and share resources
+- ✨ since data is so fundamental for deep-learning we may want to curate some labelled datasets which can be used to apply what is learned in the lessons.  
+- 📞 if there is interest we can set up a video call(s) at some point during the course 
 
 ### Schedule
 When I did the course in 2019 I usually did one lesson per week. This comprises around ~2 hours to watch the video and then variable amount of time adapting the notebooks and trying to apply what is covered in the lessons. 
@@ -52,10 +52,10 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 
 ## How to join
 
-
-If you want to get an email once the course starts sign-up here: https://forms.gle/DTbdnhD571fdrdxz7
+- 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
+- Otherwise just join the forum thread for the study group
 
 ## Yummy GLAM data 🖼
 [see](/data.md)
 
-## Other resources 
+
