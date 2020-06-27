@@ -56,6 +56,6 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 If you want to get an email once the course starts sign-up here: https://forms.gle/DTbdnhD571fdrdxz7
 
 ## Yummy GLAM data 🖼
-TODO
+[see](/data.md)
 
 ## Other resources 
