@@ -31,13 +31,23 @@ There is a lot of interest in applying AI/ machine learning in GLAM settings wit
     - c) be more aware of things about the GLAM setting that can pose challenges for machine-learning approaches
 - 😃 It's fun! 
 
+### Prerequisites 
+There is no particular prerequisite for joining the study group. The fastai course assumes you have been coding for at least a year with the course using Python. There is *some* maths in the course but it is explained very clearly and I really wouldn't worry let math worries stop you from doing the course. If there are things you don't understand you can fill in the missing pieces as you go rather than wasting time learning things you might not need before getting started. 
+
 ## How the study group will work 
 This study group will be primarily asynchronous with discussions taking place on the fastai [forums](forums.fast.ai/). The reason this has been chosen over a slack group is that:
 - there is already a ton of expertise on the fastai forums 
 - a slack channel is semi-private which means it's a bigger barrier to join and discussions get lost 
 - the forum discussions can be a resource that people might stumble upon through a google search in the future 
 
-If there is interest we can set up a video call(s) at some point during the course to discuss how we're getting on. 
+The suggested approach will be:
+- to watch the fastai course videos and work through the notebooks in your own time
+- use the study group forum thread to discuss the lessons, ask questions and share resources
+- since data is so fundamental for deep-learning we may want to curate some labelled datasets which can be used to apply what is learned in the lessons.  
+- If there is interest we can set up a video call(s) at some point during the course to discuss how we're getting on. 
+
+### Schedule
+When I did the course in 2019 I usually did one lesson per week. This comprises around ~2 hours to watch the video and then variable amount of time adapting the notebooks and trying to apply what is covered in the lessons. 
 
 
 ## How to join
@@ -46,6 +56,6 @@ If there is interest we can set up a video call(s) at some point during the cour
 If you want to get an email once the course starts sign-up here: https://forms.gle/DTbdnhD571fdrdxz7
 
 ## Yummy GLAM data 🖼
-
+TODO
 
 ## Other resources 
