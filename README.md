@@ -46,6 +46,9 @@ The suggested approach will be:
 - ✨ since data is so fundamental for deep-learning we may want to curate some labelled datasets which can be used to apply what is learned in the lessons.  
 - 📞 if there is interest we can set up a video call(s) at some point during the course 
 
+### This repository
+I will add notebooks to this repository based on materials from the fastai course to using GLAM data and will happily accept pull-requests for other notebooks. 
+
 ### Schedule
 When I did the course in 2019 I usually did one lesson per week. This comprises around ~2 hours to watch the video and then variable amount of time adapting the notebooks and trying to apply what is covered in the lessons doing follow up reading etc. The amount of time spent can be adjusted depending on your interest in each application and your own schedule. 
 
