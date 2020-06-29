@@ -47,15 +47,14 @@ The suggested approach will be:
 - 📞 if there is interest we can set up a video call(s) at some point during the course 
 
 ### Schedule
-When I did the course in 2019 I usually did one lesson per week. This comprises around ~2 hours to watch the video and then variable amount of time adapting the notebooks and trying to apply what is covered in the lessons. 
-
+When I did the course in 2019 I usually did one lesson per week. This comprises around ~2 hours to watch the video and then variable amount of time adapting the notebooks and trying to apply what is covered in the lessons doing follow up reading etc. The amount of time spent can be adjusted depending on your interest in each application and your own schedule. 
 
 ## How to join
 
 - 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
 - Otherwise just join the forum thread for the study group
 
-## Yummy GLAM data 🖼
-[see](/data.md)
+## Yummy GLAM machine learning data 🖼
+[Suggested datasets for working with the course material](/data.md)
 
 
