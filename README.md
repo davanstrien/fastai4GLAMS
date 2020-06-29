@@ -1,5 +1,5 @@
 # fastai4GLAMS study group 
-A study group for v4 of the fastai introduction to deep learning course with a focus on applications in GLAM (galleries, libraries, archives, and museums) 
+A study group for v4 of the fastai [Pracitcal Deep Learning for Coders course](https://course.fast.ai/) with a focus on applications in [GLAM (galleries, libraries, archives, and museums)](https://en.wikipedia.org/wiki/GLAM_%28industry_sector%29) 
 
 ## tl;dr 
 a study group:
