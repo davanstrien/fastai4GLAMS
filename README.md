@@ -55,7 +55,7 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 ## How to join
 
 - 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
-- Otherwise just join the forum thread for the study group
+- Otherwise just join the thread on the fastai forums
 
 ## Yummy GLAM machine learning data 🖼
 [Suggested datasets for working with the course material](/data.md)
