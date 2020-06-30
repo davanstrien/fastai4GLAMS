@@ -9,7 +9,7 @@ a study group:
 - has a practical focus 
 
 ## Practical Deep Learning for Coders, v4
-This course will follow v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/)
+This course will follow v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/) which should be released sometine in July 🤞
 
 ### What the course covers:
 - 🤔 Ethics 
@@ -55,7 +55,7 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 ## How to join
 
 - 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
-- Otherwise just join the thread on the fastai forums
+- Otherwise join the thread on the fastai forums (I'll post a link here once the thread is live) 
 
 ## Yummy GLAM machine learning data 🖼
 [Suggested datasets for working with the course material](/data.md)
