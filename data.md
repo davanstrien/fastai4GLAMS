@@ -1,5 +1,10 @@
 # Images
 
+## Internet Archive 'judge a book by its cover' 
+> Classifcation of book covers into 'useful' or 'not useful' 
+- Type: Image classification (two classes) 
+- Data size: 1.4GB 
+- Link: https://archive.org/details/year-1923-not-very-useful-covers
 
 
 ## iMet Collection 2020 - FGVC7
