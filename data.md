@@ -19,6 +19,12 @@
 - Data size: 22.65 GB
 - Link: [https://www.kaggle.com/c/imet-2019-fgvc6/overview]()
 
+## Iconclass AI Test Set
+>"A test dataset and challenge to apply machine learning to collections described with the Iconclass classification system." 
+- Type: Multi-label 
+- Data size: G.1 GB
+- Link: [https://labs.brill.com/ictestset/]()
+
 ---
 # Text 
 
