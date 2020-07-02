@@ -28,6 +28,12 @@
 ---
 # Text 
 
+## UK Selective Web Archive Website Classification Dataset 
+> "We are particularly interested in understanding whether high-level metadata like this can be used to train an appropriate automatic classification system so that we might use this manually generated dataset to partially automate the categorisation of our larger archives. We expect that a appropriate classifier might require more information about each site in order to produce reliable results, and are looking at augmenting this dataset with further information in the future."
+- Type: Classification 
+- Data size: 3.01 MB
+- Link: [https://doi.org/10.5259/ukwa.ds.1/classification/1]()
 
 ---
 # Tabular 
+
