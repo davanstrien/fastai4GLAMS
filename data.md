@@ -1,4 +1,4 @@
-# Images
+# Images 🖼
 
 
 ## Classification 
@@ -28,7 +28,7 @@
 - Link: [https://labs.brill.com/ictestset/]()
 
 ---
-# Text 
+# Text 📖
 
 ## Classification
 
@@ -46,7 +46,7 @@
 - notes: There are likely to be some errors in the labels. 
 
 ---
-# Tabular 
+# Tabular 🗂
 
 ## Books divided by Genre from the Digitised 19th century books dataset
 >"A dataset derived from the Digitised 19th Century Books dataset which classifies the books by genre (Drama, Poetry, Prose, Music and unidentified)."
