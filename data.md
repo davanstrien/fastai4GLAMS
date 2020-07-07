@@ -1,5 +1,16 @@
-# Images 🖼
+# Glam data for using with fastai course materials
 
+Below are some potential datasets that could be used with course materials. They have been suggested because they meet the following criteria:
+
+1. they are openly available
+2. most are already have labels
+3. most are small enough to work with interactively 
+
+## Contributing
+
+If you know of other GLAM related datasets that might work well then please feel free to make a pull request or open an issue. I would suggest restricting this list to things which meet the first criteria above i.e the dataset isn't behind a paywall/subscription. 
+
+# Images 🖼
 
 ## Classification 
 ### Internet Archive 'judge a book by its cover' 
