@@ -8,7 +8,6 @@
 - Data size: 1.4GB 
 - Link: https://archive.org/details/year-1923-not-very-useful-covers
 
-
 ### iMet Collection 2020 - FGVC7
 > "Recognize artwork attributes from The Metropolitan Museum of Art"
 - Type: Multi-label image classification
@@ -27,6 +26,8 @@
 - Data size: 3.1 GB
 - Link: [https://labs.brill.com/ictestset/]()
 
+## Object detection
+
 ### Newspaper Navigator
 >"This dataset consists of extracted visual content for 16,358,041 historic newspaper pages in Chronicling America. "
 - Type: object detection, classification
@@ -39,13 +40,13 @@
 
 ## Classification
 
-## UK Selective Web Archive Website Classification Dataset 
+### UK Selective Web Archive Website Classification Dataset 
 > "We are particularly interested in understanding whether high-level metadata like this can be used to train an appropriate automatic classification system so that we might use this manually generated dataset to partially automate the categorisation of our larger archives. We expect that a appropriate classifier might require more information about each site in order to produce reliable results, and are looking at augmenting this dataset with further information in the future."
 - Type: Classification 
 - Data size: 3.01 MB
 - Link: [https://doi.org/10.5259/ukwa.ds.1/classification/1]()
 
-## Books divided by Genre from the Digitised 19th century books dataset
+### Books divided by Genre from the Digitised 19th century books dataset
 >"A dataset derived from the Digitised 19th Century Books dataset which classifies the books by genre (Drama, Poetry, Prose, Music and unidentified)."
 - Type: Classification 
 - Data size: < 1GB
@@ -55,7 +56,7 @@
 ---
 # Tabular 🗂
 
-## Books divided by Genre from the Digitised 19th century books dataset
+### Books divided by Genre from the Digitised 19th century books dataset
 >"A dataset derived from the Digitised 19th Century Books dataset which classifies the books by genre (Drama, Poetry, Prose, Music and unidentified)."
 - Type: Classification 
 - Data size: < 1GB
@@ -63,7 +64,7 @@
 - notes: There are likely to be some errors in the labels. 
 
 
-## UK Selective Web Archive Website Classification Dataset 
+### UK Selective Web Archive Website Classification Dataset 
 > "We are particularly interested in understanding whether high-level metadata like this can be used to train an appropriate automatic classification system so that we might use this manually generated dataset to partially automate the categorisation of our larger archives. We expect that a appropriate classifier might require more information about each site in order to produce reliable results, and are looking at augmenting this dataset with further information in the future."
 - Type: Classification 
 - Data size: 3.01 MB
