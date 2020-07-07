@@ -1,5 +1,12 @@
-# Images 🖼
+# Glam data for using with fastai course materials
 
+Below are some potential datasets that could be used with course materials. They have been suggested because:
+
+- they are openly available
+- most are already have labels
+- most are small enough to work with interactively 
+
+# Images 🖼
 
 ## Classification 
 ### Internet Archive 'judge a book by its cover' 
