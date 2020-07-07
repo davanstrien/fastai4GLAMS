@@ -27,6 +27,13 @@
 - Data size: 3.1 GB
 - Link: [https://labs.brill.com/ictestset/]()
 
+### Newspaper Navigator
+>"This dataset consists of extracted visual content for 16,358,041 historic newspaper pages in Chronicling America. "
+- Type: object detection, classification
+- Data sizes: varies
+- Link: [https://github.com/LibraryOfCongress/newspaper-navigator]()
+
+
 ---
 # Text 📖
 
