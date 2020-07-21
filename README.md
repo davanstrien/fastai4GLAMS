@@ -40,7 +40,7 @@ There is a lot of interest in applying AI/ machine learning in GLAM settings wit
 There is no particular prerequisite for joining the study group. The fastai course assumes you have been coding for at least a year with the course using Python. There is *some* maths in the course but it is explained very clearly and I really wouldn't worry let math worries stop you from doing the course. If there are things you don't understand you can fill in the missing pieces as you go rather than wasting time learning things you might not need before getting started. 
 
 ## How the study group will work 
-This study group will be primarily asynchronous with discussions taking place on the fastai [forums](forums.fast.ai/). The reason this has been chosen over a slack group is that:
+This study group will be primarily asynchronous with discussions taking place on the fastai [forums](https://forums.fast.ai/). The reason this has been chosen over a slack group is that:
 - there is already a ton of expertise on the fastai forums 
 - a slack channel is semi-private which means it's a bigger barrier to join and discussions get lost 
 - the forum discussions can be a resource that people might stumble upon through a google search in the future 
