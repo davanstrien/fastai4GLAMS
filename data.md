@@ -1,4 +1,4 @@
-# Glam data for using with fastai course materials
+# GLAM data for using with fastai course materials
 
 Below are some potential datasets that could be used with course materials. They have been suggested because they meet the following criteria:
 
