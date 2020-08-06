@@ -4,6 +4,8 @@ A study group for v4 of the fastai [Pracitcal Deep Learning for Coders course](h
 Nicole Coleman is running a [Elements of AI 4 GLAMs tudy group](https://github.com/cncoleman/elementsofai4glam) which you might also want to check out as an alternative. 
 > "Elements of AI is a free online course developed at the University of Helsinki that addresses the theory behind AI. The course is intended for people who want to learn what AI is, what can and cannot be done with AI. The study group provides a context for the material."
 
+## Updates:
+2020-08-06: discussion thread for the study group now live on the forum: https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064?u=danielvs
 
 ## tl;dr 
 a study group:
@@ -60,7 +62,7 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 ## How to join
 
 - 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
-- Otherwise join the thread on the fastai forums (I'll post a link here once the thread is live) 
+- Otherwise join the [thread](https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064?u=danielvs) on the fastai forums.
 
 ## Yummy GLAM machine learning data 🖼
 [Suggested datasets for working with the course material](/data.md)
