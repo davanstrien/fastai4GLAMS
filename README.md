@@ -1,7 +1,7 @@
 # fastai4GLAMS study group 
 A study group for v4 of the fastai [Pracitcal Deep Learning for Coders course](https://course.fast.ai/) with a focus on applications in [GLAM (galleries, libraries, archives, and museums)](https://en.wikipedia.org/wiki/GLAM_%28industry_sector%29) 
 
-Nicole Coleman is running a [Elements of AI 4 GLAMs tudy group](https://github.com/cncoleman/elementsofai4glam) which you might also want to check out as an alternative. 
+Nicole Coleman is running a [Elements of AI 4 GLAM study group](https://github.com/cncoleman/elementsofai4glam) which you might also want to check out as an alternative. 
 > "Elements of AI is a free online course developed at the University of Helsinki that addresses the theory behind AI. The course is intended for people who want to learn what AI is, what can and cannot be done with AI. The study group provides a context for the material."
 
 ## Updates:
