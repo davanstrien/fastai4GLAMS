@@ -61,10 +61,9 @@ When I did the course in 2019 I usually did one lesson per week. This comprises 
 
 ## How to join
 
-- 🔔 If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).
-- Otherwise join the [thread](https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064?u=danielvs) on the fastai forums.
+- 🔔 The new version of the fast.ai course will [launch on 21 August](https://forums.fast.ai/t/fastai2-and-new-course-release-date-aug-21st/75684). ~If you want to get an email reminder when the course starts add your email to the [sign-up](https://forms.gle/DTbdnhD571fdrdxz7).~ 
+- Join the [thread](https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064?u=danielvs) on the fast.ai forums!
 
 ## Yummy GLAM machine learning data 🖼
 [Suggested datasets for working with the course material](/data.md)
-
 
