@@ -5,6 +5,7 @@ Nicole Coleman is running a [Elements of AI 4 GLAM study group](https://github.c
 > "Elements of AI is a free online course developed at the University of Helsinki that addresses the theory behind AI. The course is intended for people who want to learn what AI is, what can and cannot be done with AI. The study group provides a context for the material."
 
 ## Updates:
+- 2020-09-01: Notebooks based on the course lesson notebooks can be found in [lessons](https://github.com/davanstrien/fastai4GLAMS/tree/master/lessons) 
 - 2020-08-21: the course has now launched. See [thread](https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064/19) for discussion
 - 2020-08-06: discussion thread for the study group now live on the forum: https://forums.fast.ai/t/glams-galleries-libraries-archives-and-museums-fastai-study-group/76064?u=danielvs
 
