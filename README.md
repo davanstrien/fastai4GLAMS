@@ -18,7 +18,7 @@ a study group:
 
 
 ## Practical Deep Learning for Coders, v4
-This course will follow v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/) which should be released sometine in July 🤞
+This course will follow v4 of the [fastai](https://www.fast.ai/) [Practical Deep Learning for Coders](https://course.fast.ai/) which ~should be released sometine in July 🤞~ is available at https://course.fast.ai/
 
 ### What the course covers:
 - 🤔 Ethics 
