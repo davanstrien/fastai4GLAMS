@@ -1,3 +1,9 @@
+ # ‼️ See https://github.com/AI4LAM/fastai4GLAMS, future changes will live in this new repository. ‼️
+
+
+------
+
+
 # fastai4GLAMS study group 
 A study group for v4 of the fastai [Pracitcal Deep Learning for Coders course](https://course.fast.ai/) with a focus on applications in [GLAM (galleries, libraries, archives, and museums)](https://en.wikipedia.org/wiki/GLAM_%28industry_sector%29) 
 
